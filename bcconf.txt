@@ -1,1 +1,1 @@
-{"serveripaddress":"91.189.87.158","myip":"91.189.87.158","newsip":"91.189.87.158"}
+{"serveripaddress":"91.189.87.158","myip":"91.189.87.158","newsip":"91.189.87.158","supportednations":"Nga;Viet Nam","callcenters":"Nga;Ukraina","phonenumber":"+79037685888;+38093985688"}
