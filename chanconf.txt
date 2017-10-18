@@ -1,1 +1,1 @@
-{"serveripaddress":"123.31.20.154","myip":"123.31.20.154","newsip":"123.31.20.154"}
+{"serveripaddress":"chanvanvan.mobi","myip":"chanvanvan.mobi","newsip":"chanvanvan.mobi"}
